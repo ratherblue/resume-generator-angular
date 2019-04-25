@@ -1,1 +1,1 @@
-# resume-generator-angular
+# Resume Generator Angular
