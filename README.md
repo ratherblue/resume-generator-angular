@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/ratherblue/resume-generator-angular.svg?branch=master)](https://travis-ci.org/ratherblue/resume-generator-angular)
+[![Coverage Status](https://coveralls.io/repos/github/ratherblue/resume-generator-angular/badge.svg?branch=master)](https://coveralls.io/github/ratherblue/resume-generator-angular?branch=master)
 
 # ResumeGeneratorAngular
 
