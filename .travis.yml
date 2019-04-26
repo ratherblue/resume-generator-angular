@@ -12,6 +12,9 @@ script:
   - npm run test-headless
   - ng build --prod --base-href https://ratherblue.github.io/resume-generator-angular/
 
+after_script:
+  - npm run coveralls
+
 deploy:
   provider: pages
   skip_cleanup: true
